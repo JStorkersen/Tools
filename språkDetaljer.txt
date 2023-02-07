@@ -1,0 +1,13 @@
+Språk 
+Norsk = no
+- Bokmål og nynorsk? 
+Engelsk = en
+- Amerikans og britisk? 
+
+Dato
+- Kunne endre dagens dato basert på hvilket språk man velger
+    - Måned eller dagen først 
+
+Kalender
+- Kunne endre dagenes bokstav basert på hvilket språk man velger
+    - Forskjell på navn på ukedager 
